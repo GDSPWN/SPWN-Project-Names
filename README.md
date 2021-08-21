@@ -4,6 +4,7 @@
 |-
 | Names can be subject to changes from the developer who wants to reserve it
 | The developers who reserve the names, also have to continue the project in the best of their abilities
+| Before reserving a name, discuss in the SPWN Discord server why that name should be reserved for you and if there are any alternatives
 | More names can be added in the future
 
 ## Names
