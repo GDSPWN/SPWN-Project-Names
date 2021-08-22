@@ -41,7 +41,7 @@
   - Outline: [OTLN]
   - Slope: [SLP]
   - Spike: [SPK]
-  - 3D Lines: [3DLN]
+  - 3D Lines: [3DLN](https://github.com/patrickbies/3DLN)
   - Saw: [SW]
 - Specials
   - Pads: [PDS]
