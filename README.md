@@ -28,7 +28,7 @@
   - Instant Count Trigger: [INSTCNT]
   - Pickup Trigger: [PCKP](https://github.com/pckp)
   - Item Block: [ITM]
-  - Collision Trigger: [CLLSN](https://github.com/Fl1pNatic/CLLSN)
+  - Collision Trigger: [CLSN](https://github.com/Fl1pNatic/CLSN)
   - Collision Block: [CLSBLCK]
   - On Death Trigger: [NDTH]
   - Disable Trigger: [DSBL]
