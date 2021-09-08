@@ -19,7 +19,7 @@
   - Toggle Trigger: [TGGL]
   - Spawn Trigger: [SPWN](https://github.com/Spu7Nix/SPWN-language)
   - Rotate Trigger: [RTTE/RTAT/ROTT]
-  - Follow Trigger: [FLLW]
+  - Follow Trigger: [FLLW](https://github.com/ephf/FLLW)
   - Shake Trigger: [SHKE/SHAK]
   - Animate Trigger: [ANMT](https://github.com/SpeckyYT/ANMT)
   - Follow Player Y Trigger: [FLWPLRY](https://github.com/SpeckyYT/FLWPLRY)
