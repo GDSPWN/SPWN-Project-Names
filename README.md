@@ -33,7 +33,7 @@
   - On Death Trigger: [NDTH]
   - Disable Trigger: [DSBL]
   - Enable Trigger: [ENBL]
-  - Show Trigger: [SHW]
+  - Show Trigger: [SHW](https://github.com/GDSPWN/SHW)
   - Hide Trigger: [HDE/HID]
   - BG Effect Trigger: [BGEFCT]
 - Blocks
