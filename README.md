@@ -45,7 +45,7 @@
   - Saw: [SW]
 - Specials
   - Pads: [PDS]
-  - Portal: [PRTL]
+  - Portal: [PRTL](https://github.com/ephf/PRTL)
   - Reverse: [RVRS]
   - Mini: [MNI/MIN]
   - Dual: [DAL/DUL]
