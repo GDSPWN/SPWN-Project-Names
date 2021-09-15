@@ -10,6 +10,8 @@
 ## Names
 
 - Triggers
+  - Gravity trigger: [GRVT]
+  - Camera trigger: [CMR] 
   - Start Position Trigger: [STRTPS]
   - Color Trigger: [CLR]
   - Move Trigger: [MVE/MOV]
@@ -51,5 +53,9 @@
   - Dual: [DAL/DUL]
   - Teleport: [TLPR/TLPRT]
   - Speed: [SPD]
+- Modes
+  - Wave Mode: [WV]
+  - Cube Mode: [CB]
+  - Ship Mode: [SHP]
 - Various
   - Custom: [CSTM]
