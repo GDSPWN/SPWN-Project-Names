@@ -45,6 +45,8 @@
   - Spike: [SPK]
   - 3D Lines: [3DLN](https://github.com/patrickbies/3DLN)
   - Saw: [SW]
+  - Glow: [GLW]
+  - Rainbow Block: [RNBW]
 - Specials
   - Pads: [PDS]
   - Portal: [PRTL](https://github.com/ephf/PRTL)
@@ -53,9 +55,14 @@
   - Dual: [DAL/DUL]
   - Teleport: [TLPR/TLPRT]
   - Speed: [SPD]
+  - D / J / S / H Blocks: [DBLCK/DBLK/DBLC]
 - Modes
   - Wave Mode: [WV]
   - Cube Mode: [CB]
   - Ship Mode: [SHP]
+  - UFO Mode(lol): [UFO]
+  - Spider Mode: [SPDR]
+  - Robot Mode: [RBT]
+  - Swing Copter Mode: [SWCPTR]
 - Various
   - Custom: [CSTM]
