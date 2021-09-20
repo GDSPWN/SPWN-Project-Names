@@ -10,6 +10,7 @@
 ## Names
 
 - Triggers
+  - TimeWarp trigger: [TMWRP]
   - Gravity trigger: [GRVT]
   - Camera trigger: [CMR] 
   - Start Position Trigger: [STRTPS]
