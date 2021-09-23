@@ -67,3 +67,4 @@
   - Swing Copter Mode: [SWCPTR]
 - Various
   - Custom: [CSTM]
+  - Control: [CTRL](https://github.com/Dastan21/CTRL)
