@@ -66,6 +66,6 @@
   - Robot Mode: [RBT]
   - Swing Copter Mode: [SWCPTR]
 - Various
-  - Custom: [CSTM]
+  - Custom: [CSTM](https://github.com/Deltara3/CSTM)
   - Control: [CTRL](https://github.com/Dastan21/CTRL)
   - Compile: [CMPL](https://github.com/DexterHill0/spwn-CMPL)
