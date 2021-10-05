@@ -39,6 +39,8 @@
   - Show Trigger: [SHW](https://github.com/GDSPWN/SHW)
   - Hide Trigger: [HDE/HID]
   - BG Effect Trigger: [BGEFCT]
+  - Reverse Trigger: [RVRS]
+  - Random Trigger: [RNDM]
 - Blocks
   - Block: [BLCK](https://github.com/FlowVix/BLCK)
   - Outline: [OTLN]
