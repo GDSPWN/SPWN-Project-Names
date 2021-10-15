@@ -48,6 +48,7 @@
   - Saw: [SW]
   - Glow: [GLW]
   - Rainbow Block: [RNBW]
+  - Trigger [TRGGR/TRGR]
 - Specials
   - Pads: [PDS]
   - Portal: [PRTL](https://github.com/ephf/PRTL)
