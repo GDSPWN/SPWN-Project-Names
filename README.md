@@ -39,8 +39,6 @@
   - Show Trigger: [SHW](https://github.com/GDSPWN/SHW)
   - Hide Trigger: [HDE/HID]
   - BG Effect Trigger: [BGEFCT]
-  - Reverse Trigger: [RVRS]
-  - Random Trigger: [RNDM]
 - Blocks
   - Block: [BLCK](https://github.com/FlowVix/BLCK)
   - Outline: [OTLN]
@@ -50,6 +48,7 @@
   - Saw: [SW]
   - Glow: [GLW]
   - Rainbow Block: [RNBW]
+  - Trigger [TRGGR/TRGR]
 - Specials
   - Pads: [PDS]
   - Portal: [PRTL](https://github.com/ephf/PRTL)
