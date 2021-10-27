@@ -38,7 +38,7 @@
   - Enable Trigger: [ENBL]
   - Show Trigger: [SHW](https://github.com/GDSPWN/SHW)
   - Hide Trigger: [HDE/HID]
-  - BG Effect Trigger: [BGEFCT]
+  - BG Effect Trigger: [BG]
 - Blocks
   - Block: [BLCK](https://github.com/FlowVix/BLCK)
   - Outline: [OTLN]
